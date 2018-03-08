@@ -1,0 +1,7 @@
+.container-fluid{
+    width: 700px !important;
+    text-align: center;
+}
+select{
+    width: 150px;
+}
